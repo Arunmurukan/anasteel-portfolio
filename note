@@ -1,0 +1,15 @@
+zudo class- zudo class is a key word added to a selector that specifies a special state of a elements  
+eg: hover,visited,checked,active
+
+css grid system
+----------------
+display grid is consider as a grid
+
+
+the grid template coloum
+
+1 frame = 225px
+1 rem = 16px
+
+
+objet position property is 
